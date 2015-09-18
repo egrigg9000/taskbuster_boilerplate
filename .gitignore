@@ -1,4 +1,5 @@
 db.sqlite3
 __pycache__
 Taskbuster.sublime-workspace
-test_file.py
+test_file.py.coverage
+htmlcov
